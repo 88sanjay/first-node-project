@@ -17,5 +17,10 @@
   "homepage": "https://github.com/88sanjay/first-node-project.git#README.md",
   "devDependencies": {
     "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
   }
 }
